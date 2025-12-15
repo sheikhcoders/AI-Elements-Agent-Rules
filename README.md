@@ -33,14 +33,6 @@ If a decision conflicts with this repository, **this repository wins**.
 
 ---
 
-## Repository Structure
-
-.
-├── README.md      # Purpose, scope, and usage
-└── agents.md      # Enforceable MUST / SHOULD / NEVER rules
-
----
-
 ## Who This Is For
 
 - Teams building AI-native products
